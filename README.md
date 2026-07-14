@@ -1,4 +1,1 @@
-- 👋 Oi meu nome é Guilherme
-- 👀 Eu gosto muito de prgramação
-- 🌱 Estou aprendendo recentemente HTML e CSS
-- 📫 Você pode me contatar pelo discord através do nick: pumpedkkk
+
